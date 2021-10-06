@@ -410,7 +410,7 @@ if(TRUE){
   grid.text(paste(
     "Stroke-tapausten potilaat, jotka hakeutuneet päivystykseen vuosilta 2010-2019",
     "http://www.neurocenterfinland.fi",
-    "http://github.com/",
+    "https://github.com/janikmiet/infograph_stroke",
     "Paula Tanni (HUS), Eric Le Tortorec (KYS) & Jani Miettinen (Neurocenter Finland)", sep = "\n"), vjust = 0, hjust = 0, x = unit(0.15, "npc"), y = unit(0.807, "npc"), gp = gpar(fontfamily = "Impact", col = text_white, cex = 0.8))
   dev.off()
 }
